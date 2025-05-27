@@ -1,0 +1,2 @@
+# MaxOfEvery3Elements
+MaxOfEvery3Elements
