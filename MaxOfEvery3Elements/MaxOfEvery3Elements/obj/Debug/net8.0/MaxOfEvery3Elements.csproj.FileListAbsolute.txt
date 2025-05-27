@@ -1,0 +1,14 @@
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\bin\Debug\net8.0\MaxOfEvery3Elements.exe
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\bin\Debug\net8.0\MaxOfEvery3Elements.deps.json
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\bin\Debug\net8.0\MaxOfEvery3Elements.runtimeconfig.json
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\bin\Debug\net8.0\MaxOfEvery3Elements.dll
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\bin\Debug\net8.0\MaxOfEvery3Elements.pdb
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\MaxOfEvery3Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\MaxOfEvery3Elements.AssemblyInfoInputs.cache
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\MaxOfEvery3Elements.AssemblyInfo.cs
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\MaxOfEvery3Elements.csproj.CoreCompileInputs.cache
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\MaxOfEvery3Elements.dll
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\refint\MaxOfEvery3Elements.dll
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\MaxOfEvery3Elements.pdb
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\MaxOfEvery3Elements.genruntimeconfig.cache
+C:\MaxOfEvery3Elements\MaxOfEvery3Elements\obj\Debug\net8.0\ref\MaxOfEvery3Elements.dll
